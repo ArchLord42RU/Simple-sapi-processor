@@ -28,7 +28,11 @@ also any option can be set by defaul by putting into Configuration.ini file.
 for example
 
 VoiceName=Nuance Automotive Milena Premium High 22kHz
+
 Channel=0
+
 bitRate=1
+
 sampleRate=16000
+
 folder=\\10.1.100.2\hdd\files\driver_ivr
