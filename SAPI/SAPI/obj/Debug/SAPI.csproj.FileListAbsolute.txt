@@ -1,0 +1,11 @@
+D:\dev\1C\SAPI\SAPI\bin\Debug\SAPI.exe.config
+D:\dev\1C\SAPI\SAPI\bin\Debug\SAPI.exe
+D:\dev\1C\SAPI\SAPI\bin\Debug\SAPI.pdb
+D:\dev\1C\SAPI\SAPI\obj\Debug\SAPI.csprojResolveAssemblyReference.cache
+D:\dev\1C\SAPI\SAPI\obj\Debug\SAPI.exe
+D:\dev\1C\SAPI\SAPI\obj\Debug\SAPI.pdb
+D:\dev\1C\SAPI\SAPI\bin\Debug\CommandLine.dll
+D:\dev\1C\SAPI\SAPI\bin\Debug\CommandLine.xml
+D:\dev\1C\SAPI\SAPI\bin\Debug\INIFileParser.dll
+D:\dev\1C\SAPI\SAPI\bin\Debug\INIFileParser.xml
+D:\dev\1C\SAPI\SAPI\bin\Debug\SAPIProcessor.exe.config

@@ -1,0 +1,9 @@
+D:\dev\1C\SAPI\SAPI\bin\Debug\SAPIProcessor.exe.config
+D:\dev\1C\SAPI\SAPI\bin\Debug\SAPIProcessor.exe
+D:\dev\1C\SAPI\SAPI\bin\Debug\SAPIProcessor.pdb
+D:\dev\1C\SAPI\SAPI\bin\Debug\CommandLine.dll
+D:\dev\1C\SAPI\SAPI\bin\Debug\INIFileParser.dll
+D:\dev\1C\SAPI\SAPI\bin\Debug\CommandLine.xml
+D:\dev\1C\SAPI\SAPI\bin\Debug\INIFileParser.xml
+D:\dev\1C\SAPI\SAPI\obj\Debug\SAPIProcessor.exe
+D:\dev\1C\SAPI\SAPI\obj\Debug\SAPIProcessor.pdb
