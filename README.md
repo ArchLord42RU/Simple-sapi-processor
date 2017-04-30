@@ -3,7 +3,7 @@ Simple sapi processor with command line interface
 
 Easy to use command line utility for generating wav files from text using windows TTS API
 
-<br> Options: </br>
+<h2> Options: </h2>
 
 -i InputFile (string) Input file to be processed.
 
@@ -25,7 +25,7 @@ Easy to use command line utility for generating wav files from text using window
 
 also any option can be set by defaul by putting into Configuration.ini file.
 
-<br> for example </br>
+<h2> for example </h2>
 
 VoiceName=Nuance Automotive Milena Premium High 22kHz
 
