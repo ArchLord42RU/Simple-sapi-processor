@@ -7,3 +7,6 @@ D:\dev\1C\SAPI\SAPI\bin\Debug\CommandLine.xml
 D:\dev\1C\SAPI\SAPI\bin\Debug\INIFileParser.xml
 D:\dev\1C\SAPI\SAPI\obj\Debug\SAPIProcessor.exe
 D:\dev\1C\SAPI\SAPI\obj\Debug\SAPIProcessor.pdb
+D:\User\Documents\GitHubVisualStudio\Simple-sapi-processor\SAPI\SAPI\bin\Debug\SAPIProcessor.exe.config
+D:\User\Documents\GitHubVisualStudio\Simple-sapi-processor\SAPI\SAPI\obj\Debug\SAPIProcessor.exe
+D:\User\Documents\GitHubVisualStudio\Simple-sapi-processor\SAPI\SAPI\obj\Debug\SAPIProcessor.pdb
